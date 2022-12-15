@@ -1,10 +1,43 @@
 *{
-box-sizing: border-box;
-padding: 0;
-margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
-.debug .conteiner {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .debug .conteiner {
     background-color: rgb(163, 38, 16);
     padding: 50px;
 }
@@ -99,4 +132,4 @@ footer{
 
 .row-footer{
     display: flex;
-}
+} */
